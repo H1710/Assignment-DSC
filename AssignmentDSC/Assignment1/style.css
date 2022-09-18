@@ -1,0 +1,18 @@
+
+img {
+    width: 200px;
+    height: 200px;
+    flex: 1;
+}
+
+#poem-name {
+    margin: 16px 0 32px 0;
+}
+
+.paragraph {
+    margin-bottom: 20px;
+}
+
+#poem-source {
+    margin-bottom: 32px;
+}
